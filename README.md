@@ -10,7 +10,7 @@ All you need to get started is a golang project and then you can simply install 
 `go get -u github.com/robit-dev/events`
 
 ## Tests
-Describe and show how to run the tests with code examples.
+Tests can be run with `go test ./...`
 
 ## How to use?
 

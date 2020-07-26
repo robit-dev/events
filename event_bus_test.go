@@ -1,12 +1,12 @@
 package events_test
 
 import (
-	"events"
 	"log"
 	"testing"
 
 	"context"
 
+	"github.com/robit-dev/events"
 	"github.com/stretchr/testify/assert"
 )
 
